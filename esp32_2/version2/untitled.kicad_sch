@@ -1,0 +1,524 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "23f20d80-1daf-418b-9c85-3e4ade36ce8b")
+	(paper "A4")
+	(lib_symbols)
+	(bezier
+		(pts
+			(xy 149.86 113.03) (xy 149.86 113.03) (xy 147.32 116.84) (xy 147.32 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "06d63999-76f3-45e5-b017-0c5e694b0be1")
+	)
+	(bezier
+		(pts
+			(xy 149.86 80.01) (xy 149.86 80.01) (xy 156.21 72.39) (xy 156.21 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "20e38a0a-8648-403a-8f96-c34140ba6e67")
+	)
+	(bezier
+		(pts
+			(xy 81.28 90.17) (xy 81.28 90.17) (xy 123.19 90.17) (xy 123.19 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "2c524403-882f-43d9-9dc4-6f00e8197d8e")
+	)
+	(bezier
+		(pts
+			(xy 149.86 128.27) (xy 149.86 128.27) (xy 149.86 113.03) (xy 149.86 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "30b6168d-ee97-4395-9f89-25148fd5915c")
+	)
+	(bezier
+		(pts
+			(xy 123.19 90.17) (xy 123.19 90.17) (xy 118.11 85.09) (xy 118.11 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5db940f5-ec9e-4310-b652-2c64fc8dfeb7")
+	)
+	(bezier
+		(pts
+			(xy 121.92 100.33) (xy 121.92 100.33) (xy 116.84 105.41) (xy 116.84 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5f3a821d-4755-40b0-b8bf-0d41cc74c266")
+	)
+	(bezier
+		(pts
+			(xy 149.86 80.01) (xy 149.86 80.01) (xy 142.24 72.39) (xy 142.24 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "89f498c2-e874-4e76-9304-766985716ee4")
+	)
+	(bezier
+		(pts
+			(xy 123.19 101.6) (xy 123.19 101.6) (xy 116.84 97.79) (xy 116.84 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "8d2a3376-7257-4ad6-8915-2f24299bae97")
+	)
+	(bezier
+		(pts
+			(xy 121.92 52.07) (xy 121.92 52.07) (xy 113.03 58.42) (xy 113.03 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "91970107-1a3f-4118-b6cd-2895ebb2fe9d")
+	)
+	(bezier
+		(pts
+			(xy 219.71 95.25) (xy 219.71 95.25) (xy 215.9 90.17) (xy 215.9 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "936e8306-3cb5-4289-a90e-8eb3a0939c7d")
+	)
+	(bezier
+		(pts
+			(xy 219.71 93.98) (xy 219.71 93.98) (xy 214.63 100.33) (xy 214.63 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "957c6493-14f7-4077-890f-8d3dc2253c3a")
+	)
+	(bezier
+		(pts
+			(xy 80.01 101.6) (xy 80.01 101.6) (xy 123.19 101.6) (xy 123.19 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "bf98f3db-0849-4492-be70-81ef3fbb8d42")
+	)
+	(bezier
+		(pts
+			(xy 149.86 62.23) (xy 149.86 62.23) (xy 149.86 81.28) (xy 149.86 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "cddaafd5-cc01-49b8-b3eb-24acfecd3d62")
+	)
+	(bezier
+		(pts
+			(xy 121.92 52.07) (xy 121.92 52.07) (xy 111.76 44.45) (xy 111.76 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "d8e896fb-56e9-4293-a0d8-1251c8c7d995")
+	)
+	(bezier
+		(pts
+			(xy 181.61 95.25) (xy 181.61 95.25) (xy 186.69 90.17) (xy 186.69 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "e095d3e8-d18b-4b2d-9c3e-3ef58c08dc0b")
+	)
+	(bezier
+		(pts
+			(xy 149.86 113.03) (xy 149.86 113.03) (xy 152.4 115.57) (xy 152.4 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "e48534f2-1a23-4bf6-8e9e-56d7e28bf5ff")
+	)
+	(bezier
+		(pts
+			(xy 124.46 90.17) (xy 124.46 90.17) (xy 116.84 93.98) (xy 116.84 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "fad73f8e-4222-491c-9d36-1247f9762552")
+	)
+	(bezier
+		(pts
+			(xy 181.61 95.25) (xy 181.61 95.25) (xy 186.69 99.06) (xy 186.69 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "fefd7fbb-8234-4864-893f-f062273397fe")
+	)
+	(text "FIRST BLOCK DIAGRAM"
+		(exclude_from_sim no)
+		(at 73.406 32.004 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "02ad78cf-868c-4111-8d77-9a023fc06a86")
+	)
+	(text "manually reset the microcontroller"
+		(exclude_from_sim no)
+		(at 98.298 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "172239f8-3c8b-4291-b646-90e5c8b9e67d")
+	)
+	(text "GPIO 8"
+		(exclude_from_sim no)
+		(at 96.774 87.122 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "185f104d-aa44-41a0-aa4e-7fa7c26463a2")
+	)
+	(text "3.3V"
+		(exclude_from_sim no)
+		(at 159.258 68.58 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "3a0326f5-d33c-4558-a1a8-0f5a82fed1b0")
+	)
+	(text "exposes GPIOs, JTAG signals, and UART signals"
+		(exclude_from_sim no)
+		(at 201.93 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4b8b9131-e6d4-45e8-962a-bbe22a278a34")
+	)
+	(text "32.768 kHz crystal\nprovides an accurate clock source \nfor timing and low power operation"
+		(exclude_from_sim no)
+		(at 147.066 146.558 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5786d692-a555-4071-83d1-b1a64396ef2e")
+	)
+	(text "gives us an understanding of the system before we move into detailed schematic design"
+		(exclude_from_sim no)
+		(at 61.722 189.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5bf9d41d-230d-44f5-9605-2763dd9c8b62")
+	)
+	(text "pin headers are for expansion and debugging"
+		(exclude_from_sim no)
+		(at 251.206 79.756 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6a2102f2-1804-493c-95ea-45d0ea26df1a")
+	)
+	(text "makes the board useful as a mini evaluation board\nsince we can easily connect sensors, peripherals, or\ndebugging tools"
+		(exclude_from_sim no)
+		(at 200.914 109.982 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7b2b59ea-b862-4cb7-b86b-44d4a433459f")
+	)
+	(text "GPIOs"
+		(exclude_from_sim no)
+		(at 201.168 92.964 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "8cafa4a8-66f9-4935-be23-07d240096785")
+	)
+	(text "EN"
+		(exclude_from_sim no)
+		(at 97.028 99.822 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "9e64620b-36e8-4704-9a54-4eaa7f4a5860")
+	)
+	(text "5V (protection\ncircuitry)"
+		(exclude_from_sim no)
+		(at 100.076 57.404 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "b0d63486-dabd-479c-ae3d-1ce3e96cf14b")
+	)
+	(text "power flows from USB-C through protection into the LDO then into the ESP32"
+		(exclude_from_sim no)
+		(at 175.768 25.146 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bdb1f18b-f26b-43c5-9a2d-62750e63c0a9")
+	)
+	(text "puts chip into programming mode when needed"
+		(exclude_from_sim no)
+		(at 100.076 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ee07d0b9-7c79-41f4-9801-d952a81d3a0e")
+	)
+	(text_box "LDO"
+		(exclude_from_sim no)
+		(at 132.08 46.99 0)
+		(size 46.99 12.1207)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 6.35 6.35)
+			)
+			(justify left top)
+		)
+		(uuid "33516d1e-daf5-4cc4-b940-30f86cc9620f")
+	)
+	(text_box "Crystal"
+		(exclude_from_sim no)
+		(at 127 132.08 0)
+		(size 46.99 22.3438)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 6.35 6.35)
+			)
+			(justify left top)
+		)
+		(uuid "61d2e222-67e1-4781-83a4-761daa5b9d4e")
+	)
+	(text_box "Pin Headers"
+		(exclude_from_sim no)
+		(at 227.33 83.82 0)
+		(size 46.99 22.3438)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 6.35 6.35)
+			)
+			(justify left top)
+		)
+		(uuid "89d38283-f260-4f85-ae4e-f2e507e417a3")
+	)
+	(text_box "Boot Button\nRST Button"
+		(exclude_from_sim no)
+		(at 13.97 86.36 0)
+		(size 62.23 22.3438)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 6.35 6.35)
+			)
+			(justify left top)
+		)
+		(uuid "b563cdd1-0fef-4ba2-9edf-565c65e76544")
+	)
+	(text_box "THE BIG ESP32"
+		(exclude_from_sim no)
+		(at 128.27 85.09 0)
+		(size 46.99 24.0153)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "d3fcffb8-6c66-44cc-8ca6-e6e8daf69335")
+	)
+	(text_box "USB-C"
+		(exclude_from_sim no)
+		(at 31.75 46.99 0)
+		(size 46.99 12.1207)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 6.35 6.35)
+			)
+			(justify left top)
+		)
+		(uuid "e41492e6-4e73-4444-9544-47e9e706f6ff")
+	)
+	(polyline
+		(pts
+			(xy 181.61 95.25) (xy 219.71 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a5a9a28-a319-40df-bdff-fb1d835efc3d")
+	)
+	(polyline
+		(pts
+			(xy 83.82 52.07) (xy 121.92 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff2b516a-425c-4163-bbf3-380773e6410e")
+	)
+)
